@@ -1,1 +1,2 @@
-document.addEventListener
+document.addEventListener('DOMContentLoaded', ()=> {
+  const userGrid= document.querySelector('.grid-user')
