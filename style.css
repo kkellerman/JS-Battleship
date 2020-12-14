@@ -2,3 +2,10 @@
 width: 400px;
 height: 400fx;
 display: flex;
+flex-wrap: wrap;
+background-color: blue;
+}
+
+.grid div {
+  width: 40 px;
+}
