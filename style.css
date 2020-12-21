@@ -8,4 +8,11 @@ background-color: blue;
 
 .grid div {
   width: 40 px;
+  height: 40 px;
 }
+
+.grid-computer {
+  width: 400px;
+  height:400px;
+  display: flex;
+  
