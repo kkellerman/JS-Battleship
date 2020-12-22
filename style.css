@@ -20,4 +20,21 @@ margin: 20px;
   width: 400px;
   height:400px;
   display: flex;
+  background-color: yellow;
+}
+
+  
+  .grid-display {
+  width: 400px;
+  height:400px;
+  margin: 20px;
+  background-color: yellow;
+}
+
+.destroyer-container {
+  width: 80px;
+  height:40px;
+  background-color: grey;
+  margin: 10px;
+}
   
