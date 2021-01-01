@@ -1,3 +1,6 @@
 document.addEventListener('DOMContentLoaded', ()=> {
   const userGrid= document.querySelector('.grid-user')
-//befor fetch
+  const computerGrid = document.querySelector('.grid-computer')
+  const displayGrid = document.querySelector('.grid-display')
+  const ships = document.querySelectorAll('.ship')
+  const ships = document.querySelectorAll('.destroyer=container')
