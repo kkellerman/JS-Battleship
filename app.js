@@ -4,3 +4,4 @@ document.addEventListener('DOMContentLoaded', ()=> {
   const displayGrid = document.querySelector('.grid-display')
   const ships = document.querySelectorAll('.ship')
   const ships = document.querySelectorAll('.destroyer=container')
+})
